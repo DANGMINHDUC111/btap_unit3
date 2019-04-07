@@ -1,0 +1,89 @@
+*{margin: 0;padding: 0;}
+
+.phan2 {
+    width: 900px;
+    margin: auto;
+}
+
+.phan1 {
+    width: 950px;
+    margin: auto;
+    height: 300px;
+}
+
+.motkhoi {
+    border: 1px solid gray;
+    width: 140px;
+    text-align: center;
+    margin-right: 10px;
+    float: left;
+}
+
+.motkhoi:hover {
+    border-color: orange;
+}
+
+.gia {
+    color: red;
+}
+
+.gia:hover {
+    color: green;
+}
+
+.ten {
+    color: orange;
+    padding-bottom: 10px;
+}
+
+.ten:hover {
+    color: black;
+}
+
+.anh {
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+p.link:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+td {
+    padding-right: 20px;
+}
+
+table {
+    background: #f7f6f6;
+}
+
+p#sales2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p#sales1 {
+    margin-bottom: 0;
+}.img1{
+	float: left;
+	margin-top: 1px;
+	margin-right: 30px;
+}
+.chu1{
+	float: left;
+
+}
+.img2{
+	float: left;
+	margin-right: 10px;
+}
+.link{
+	float: left;
+	font-weight: bold;
+}
+td:nth-child(4n){
+	padding-right: 0;
+}
+.chu1:hover{
+	color: red;
+}
